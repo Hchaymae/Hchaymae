@@ -7,13 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hchaymae&label=Profile%20views&color=0e75b6&style=flat" alt="hchaymae" /> </p>
 
 
-<summary><h2 >⚡️Some Quick Facts</h2></summary>
+<summary><h2>🌟 Quick Bio</h2></summary>
 <ul>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Hchaymae">github</a></li>
+<li>👩‍💻 You can find a collection of my work on <a href="https://github.com/Hchaymae">GitHub</a>.</li>
 
-<li>🌱 I’m currently learning **Web Devlopement techniques & Technologies**</li>
+<li>📚I'm a Computer Science Engineering student with a passion for coding and problem-solving.</li>
 
-<li>👯 I’m looking to collaborate on **projects using PHP.**</li>
+<li>🌱 Currently exploring **cutting-edge technologies in the field of Computer Science**.</li>
 </ul>
 
 
