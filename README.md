@@ -11,7 +11,7 @@
 <ul>
 <li>👩‍💻 You can find a collection of my work on <a href="https://github.com/Hchaymae">GitHub</a>.</li>
 
-<li>📚I'm a Computer Science Engineering student with a passion for coding and problem-solving.</li>
+<li>📚 I'm a Computer Science Engineering student with a passion for coding and problem-solving.</li>
 
 <li>🌱 Currently exploring **cutting-edge technologies in the field of Computer Science**.</li>
 </ul>
