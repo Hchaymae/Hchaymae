@@ -80,7 +80,7 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
 
 <a href="https://github.com/Hchaymae">
   <img height="175" width="50%" src="https://github-readme-stats.vercel.app/api?username=Hchaymae&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" /><!-- wi*quL3fcV -->
-  <img height="175" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hchaymae&hide=html&hide_title=false&hide_border=true&layout=compact&theme=dracula&langs_count=4" />
+  <img height="175" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hchaymae&hide=html&hide_title=false&hide_border=true&layout=compact&theme=dracula&langs_count=4" />
   
 </a>
 
