@@ -16,7 +16,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me 
 
 I am a Computer Science Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
   - :telescope: You can find a collection of my work on <a href="https://github.com/Hchaymae">GitHub</a>.
@@ -24,7 +24,7 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools 
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
@@ -76,11 +76,21 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
 
 ---
 
-### :fire: My Stats :
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px">  GitHub Stats 
 
 <a href="https://github.com/Hchaymae">
   <img height="50%" width="33.33%" src="https://github-readme-stats.vercel.app/api?username=Hchaymae&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" /><!-- wi*quL3fcV --><img height="50%" width="33.33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hchaymae&hide=html&hide_title=false&hide_border=true&layout=compact&theme=dracula&langs_count=4" /><img height="50%" width="33.33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hchaymae&hide=html&hide_title=false&hide_border=true&layout=compact&theme=dracula&" />
   
+</a>
+
+--- 
+
+### 🏆 GitHub Trophies
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a href="https://github-trophies.vercel.app/?username=Hchaymae" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=Hchaymae&theme=dracula&margin-w=4&margin-h=4">
 </a>
 
 
