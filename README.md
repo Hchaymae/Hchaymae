@@ -123,8 +123,6 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
         </a>
       </td>
     </tr>
-  </tbody>
-    <tbody>
     <tr>
       <td>
          <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hchaymae&">
