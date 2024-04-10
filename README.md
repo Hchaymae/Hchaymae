@@ -118,6 +118,9 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
 </table>
 </div>
 
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hchaymae">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hchaymae&theme=dracula"/>
+        </a>
 
 --- 
 
