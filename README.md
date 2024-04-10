@@ -5,10 +5,10 @@
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
   </div> -->
-  <div align="center"><img src="https://komarev.com/ghpvc/?username=hchaymae&label=Profile%20views&color=#F8F8F2&style=flat" alt="hchaymae" /> </div>
+  <div align="center"><img src="https://komarev.com/ghpvc/?username=hchaymae&label=Profile%20views&color=F8F8F2&style=flat" alt="hchaymae" /> </div>
 </div>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0048BA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Hamdoune+Chaymae;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F8F8F2&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Hamdoune+Chaymae;" alt="Typing SVG" /></a>
 </p>
 <div align="center">
 <img alt="coding" width=250 src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" >
