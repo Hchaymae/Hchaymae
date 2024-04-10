@@ -118,3 +118,10 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
   </tbody>
 </table>
 </div>
+
+
+--- 
+
+
+### 🌐 Socials
+
