@@ -94,7 +94,7 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
 ---
 
 ### 📈 User Statistics
-
+<div align="center">
 <table>
   <tbody>
     <tr>
@@ -115,3 +115,4 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
     </tr>
   </tbody>
 </table>
+</div>
