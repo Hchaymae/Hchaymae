@@ -14,13 +14,12 @@
 ### :woman_technologist: About Me :
 
 I am a Computer Science Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
+  - :telescope: You can find a collection of my work on <a href="https://github.com/Hchaymae">GitHub</a>.
+  - :seedling: Currently exploring **cutting-edge technologies in the field of Computer Science**.
 
-<summary><h2>🌟 Quick Bio</h2></summary>
-<ul>
-<li>👩‍💻 You can find a collection of my work on <a href="https://github.com/Hchaymae">GitHub</a>.</li>
-<li>📚 I'm a Computer Science Engineering student with a passion for coding and problem-solving.</li>
-<li>🌱 Currently exploring **cutting-edge technologies in the field of Computer Science**.</li>
-</ul>
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <summary><h2 align="left">🚀Some tools I use</h2></summary>
 <p align="left"> 
