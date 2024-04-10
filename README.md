@@ -115,12 +115,19 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
       </td>
     </tr>
   </tbody>
+  <tbody>
+    <tr>
+      <td>
+     <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hchaymae">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hchaymae&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 </div>
 
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hchaymae">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hchaymae&theme=dracula"/>
-        </a>
+ 
 
 --- 
 
