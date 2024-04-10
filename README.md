@@ -77,9 +77,11 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
 ---
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px">  GitHub Stats 
+<div align="center">
+
 [<img src="https://github-readme-stats.vercel.app/api?username=Hchaymae&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" height="175">](https://github-readme-stats.vercel.app/api?username=Hchaymae)
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hchaymae&hide_title=false&hide_border=true&layout=compact&theme=dracula" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=Hchaymae)
-
+</div>
   
 --- 
 
@@ -108,8 +110,8 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hchaymae">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hchaymae&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hchaymae&hide=html&hide_title=false&hide_border=true&layout=compact&theme=dracula">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hchaymae&&hide=html&hide_title=false&hide_border=true&layout=compact&theme=dracula"/>
         </a>
       </td>
     </tr>
