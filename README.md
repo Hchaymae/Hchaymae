@@ -115,6 +115,8 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
       </td>
     </tr>
   </tbody>
+</table>
+  <table>
     <tbody>
     <tr>
       <th>
