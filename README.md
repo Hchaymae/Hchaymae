@@ -96,3 +96,33 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
 ### 📈 User Statistics
 
 <img height="50%" width="33.33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hchaymae&hide=html&hide_title=false&hide_border=true&layout=compact&theme=dracula&" />
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=Hchaymae">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Hchaymae">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hchaymae">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hchaymae&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://activity-graph.herokuapp.com/graph?username=Hchaymae">
+          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=Hchaymae&theme=dracula">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
