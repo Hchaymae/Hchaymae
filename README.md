@@ -83,8 +83,5 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
   
 </a>
 
-<h2 align="left">📊 Github Stats and Activity</h2>
-<h3>💻 GitHub Profile Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hchaymae&show_icons=true&locale=en" alt="hchaymae" /></p>
 
 
