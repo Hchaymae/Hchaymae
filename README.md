@@ -89,7 +89,7 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
 
 <div align="center">
 <a align="center" href="https://github-profile-trophy.vercel.app/?username=Hchaymae&theme=dracula&title=Commits,PullRequest,Experience,Followers,Repositories,Issues" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hchaymae&theme=dracula&title=Commits,PullRequest,Experience,Followers,Repositories,Issues">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hchaymae&theme=dracula&title=Commits,PullRequest,Experience,Followers,Repositories,Issues&column=3">
 </a>
 </div>
 
