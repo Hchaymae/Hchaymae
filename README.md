@@ -78,12 +78,9 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px">  GitHub Stats 
 [<img src="https://github-readme-stats.vercel.app/api?username=Hchaymae&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" height="175">](https://github-readme-stats.vercel.app/api?username=Hchaymae)
-<a href="https://github.com/Hchaymae">
-  <img height="175" width="50%" src="https://github-readme-stats.vercel.app/api?username=Hchaymae&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" /><!-- wi*quL3fcV -->
-  <img height="175" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hchaymae&hide=html&hide_title=false&hide_border=true&layout=compact&theme=dracula" />
-  
-</a>
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hchaymae&hide_title=false&hide_border=true&layout=compact&theme=dracula" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120)
 
+  
 --- 
 
 ### 🏆 GitHub Trophies
