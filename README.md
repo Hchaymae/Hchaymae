@@ -5,7 +5,9 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0048BA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Hamdoune+Chaymae;" alt="Typing SVG" /></a>
 </p>
+<div align="center">
 <img align="right" alt="coding" width=300 src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" >
+</div>
 
 
 <summary><h2>🌟 Quick Bio</h2></summary>
