@@ -1,5 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3A1NTkzNzI1Nm95bTE3cW9iemZraWUyZXN3cjl0Z211YnYycG93MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" style="margin-bottom=0rem;" width="100"/>
+  <a href="https://www.linkedin.com/in/chaymae-hamdoune-811513269/">
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" />
+  </a>
   <div align="center"><img src="https://komarev.com/ghpvc/?username=hchaymae&label=Profile%20views&color=0e75b6&style=flat" alt="hchaymae" /> </div>
 </div>
 <p align="center">
