@@ -79,7 +79,7 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px">  GitHub Stats 
 
 <a href="https://github.com/Hchaymae">
-  <img height="50%" width="33.33%" src="https://github-readme-stats.vercel.app/api?username=Hchaymae&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" /><!-- wi*quL3fcV --><img height="50%" width="33.33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hchaymae&hide=html&hide_title=false&hide_border=true&layout=compact&theme=dracula&langs_count=4" /><img height="50%" width="33.33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hchaymae&hide=html&hide_title=false&hide_border=true&layout=compact&theme=dracula&" />
+  <img height="50%" width="33.33%" src="https://github-readme-stats.vercel.app/api?username=Hchaymae&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" /><!-- wi*quL3fcV --><img height="50%" width="33.33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hchaymae&hide=html&hide_title=false&hide_border=true&layout=compact&theme=dracula&langs_count=4" />
   
 </a>
 
@@ -93,4 +93,8 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
 </a>
 </div>
 
+---
 
+### 📈 User Statistics
+
+<img height="50%" width="33.33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hchaymae&hide=html&hide_title=false&hide_border=true&layout=compact&theme=dracula&" />
