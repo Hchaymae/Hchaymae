@@ -8,6 +8,7 @@
 <div align="center">
 <img alt="coding" width=250 src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" >
 </div>
+---
 
 
 <summary><h2>🌟 Quick Bio</h2></summary>
