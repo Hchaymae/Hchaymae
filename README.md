@@ -13,6 +13,8 @@
 
 ### :woman_technologist: About Me :
 
+I am a Computer Science Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
+
 <summary><h2>🌟 Quick Bio</h2></summary>
 <ul>
 <li>👩‍💻 You can find a collection of my work on <a href="https://github.com/Hchaymae">GitHub</a>.</li>
