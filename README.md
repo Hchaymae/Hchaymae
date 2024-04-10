@@ -88,8 +88,8 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<a align="center" href="https://github-profile-trophy.vercel.app/?username=Hchaymae&theme=dracula" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hchaymae&theme=dracula">
+<a align="center" href="https://github-profile-trophy.vercel.app/?username=Hchaymae&theme=dracula&title=commits,prs,experience,followers,repositories,issues" target="_blank">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hchaymae&theme=dracula&title=commits,prs,experience,followers,repositories,issues">
 </a>
 </div>
 
