@@ -79,8 +79,8 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px">  GitHub Stats 
 <div align="center">
 
-[<img src="https://github-readme-stats.vercel.app/api?username=Hchaymae&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&theme=onedark&count_private=true" height="175">](https://github-readme-stats.vercel.app/api?username=Hchaymae)
-<img height="175" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hchaymae&hide_progress=true&hide=html&hide_title=false&hide_border=true&layout=compact&theme=onedark" />
+[<img src="https://github-readme-stats.vercel.app/api?username=Hchaymae&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&theme=gruvbox&count_private=true" height="175">](https://github-readme-stats.vercel.app/api?username=Hchaymae)
+<img height="175" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hchaymae&hide_progress=true&hide=html&hide_title=false&hide_border=true&layout=compact&theme=gruvbox" />
 
 </div>
   
@@ -89,8 +89,8 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<a align="center" href="https://github-profile-trophy.vercel.app/?username=Hchaymae&theme=onedark&title=Commits,PullRequest,Experience,Followers,Repositories,Issues" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hchaymae&theme=onedark&title=Commits,PullRequest,Experience,Followers,Repositories,Issues&column=3">
+<a align="center" href="https://github-profile-trophy.vercel.app/?username=Hchaymae&theme=gruvbox&title=Commits,PullRequest,Experience,Followers,Repositories,Issues" target="_blank">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hchaymae&theme=gruvbox&title=Commits,PullRequest,Experience,Followers,Repositories,Issues&column=3">
 </a>
 </div>
 
@@ -102,8 +102,8 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
   <tbody>
     <tr>
       <td>
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=Hchaymae&hide=html&hide_title=false&hide_border=true&layout=compact&theme=onedark">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Hchaymae&hide=html&hide_title=false&hide_border=true&layout=compact&theme=onedark">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=Hchaymae&hide=html&hide_title=false&hide_border=true&layout=compact&theme=gruvbox">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Hchaymae&hide=html&hide_title=false&hide_border=true&layout=compact&theme=gruvbox">
         </a>
       </td>
     </tr>
@@ -111,8 +111,8 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hchaymae&hide=html&hide_title=false&hide_border=true&layout=compact&theme=onedark">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hchaymae&&hide=html&hide_title=false&hide_border=true&layout=compact&theme=onedark"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hchaymae&hide=html&hide_title=false&hide_border=true&layout=compact&theme=gruvbox">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hchaymae&&hide=html&hide_title=false&hide_border=true&layout=compact&theme=gruvbox"/>
         </a>
       </td>
     </tr>
@@ -123,12 +123,12 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
     <tr>
       <th>
          <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hchaymae">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hchaymae&theme=onedark"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hchaymae&theme=gruvbox"/>
         </a>
       </th>
       <th>
           <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hchaymae&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hchaymae&theme=onedark"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hchaymae&theme=gruvbox"/>
         </a>
       </th>
     </tr>
