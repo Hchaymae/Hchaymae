@@ -79,7 +79,7 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px">  GitHub Stats 
 <div align="center">
 
-[<img src="https://github-readme-stats.vercel.app/api?username=Hchaymae&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" height="175">](https://github-readme-stats.vercel.app/api?username=Hchaymae)
+[<img src="https://github-readme-stats.vercel.app/api?username=Hchaymae&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true" height="175">](https://github-readme-stats.vercel.app/api?username=Hchaymae)
 <img height="175" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hchaymae&hide_progress=true&hide=html&hide_title=false&hide_border=true&layout=compact&theme=dracula" />
 
 </div>
