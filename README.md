@@ -147,4 +147,4 @@ I am a Computer Science Engineering Student <img src="https://media.giphy.com/me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/chaymae-hamdoune-811513269)
 
 
-![Snake animation](https://github.com/Hchaymae/Hchaymae/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Hchaymae/blob/output/github-contribution-grid-snake.svg)
